@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = louis.aurieres@essec.edu
+	name = Louis Aurieres
